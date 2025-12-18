@@ -1,0 +1,49 @@
+{
+  "name": "repo-docgen",
+  "version": "2.0.0",
+  "description": "🚀 Intelligent documentation generator - Automatically analyze your codebase and generate beautiful, professional README files with zero configuration",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "docgen": "src/cli/index.js"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/cli/index.js"
+  },
+  "keywords": [
+    "documentation",
+    "generator",
+    "readme",
+    "cli",
+    "automatic",
+    "markdown",
+    "docs",
+    "documentation-generator",
+    "readme-generator",
+    "auto-documentation",
+    "project-documentation",
+    "api-documentation",
+    "monorepo",
+    "tech-stack",
+    "framework-detection",
+    "react",
+    "vue",
+    "angular",
+    "express",
+    "nextjs",
+    "typescript",
+    "developer-tools",
+    "devtools",
+    "automation",
+    "code-analysis"
+  ],
+  "author": "Rahul Sharma",
+  "license": "ISC"
+}
