@@ -1,6 +1,6 @@
 {
   "name": "repo-docgen",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "🚀 Intelligent documentation generator - Automatically analyze your codebase and generate beautiful, professional README files with zero configuration",
   "main": "index.js",
   "type": "module",
