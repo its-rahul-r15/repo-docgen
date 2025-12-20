@@ -44,6 +44,18 @@
     "automation",
     "code-analysis"
   ],
-  "author": "Rahul Sharma",
-  "license": "ISC"
+  "author": {
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "url": "https://github.com/its-rahul-r15"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-rahul-r15/repo-docgen.git"
+  },
+  "homepage": "https://github.com/its-rahul-r15/repo-docgen#readme",
+  "bugs": {
+    "url": "https://github.com/its-rahul-r15/repo-docgen/issues"
+  }
 }

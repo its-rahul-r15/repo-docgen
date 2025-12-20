@@ -12,8 +12,6 @@
 
 ```
 📦 NPM PACKAGE
-├── 📁 docs
-│   └── 📄 README.md
 ├── 📄 package-lock.json
 ├── 📄 package.json
 ├── 📄 README.md
@@ -45,20 +43,17 @@
 
 ## 📊 File Statistics
 
-**Total Files:** 18
+**Total Files:** 17
 
 | File Type | Count |
 |-----------|-------|
 | `.js` | 13 |
-| `.md` | 3 |
 | `.json` | 2 |
+| `.md` | 2 |
 
 ---
 
 ## 📂 Key Directories
-
-### 📁 `docs/`
-Documentation files
 
 ### 📁 `src/`
 Source code and application logic
@@ -69,7 +64,6 @@ Source code and application logic
 
 - **`package-lock.json`** - 🔒 Locked versions of dependencies
 - **`package.json`** - 📦 Node.js package configuration and dependencies
-- **`README.md`** - 📖 Project documentation
 
 ---
 

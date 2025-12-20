@@ -1,9 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-/**
- * Recursively find all package.json files in the project
- */
+
 function findAllPackages(dir, packages = []) {
   const entries = fs.readdirSync(dir, { withFileTypes: true });
 
