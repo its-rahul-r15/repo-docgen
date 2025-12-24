@@ -678,9 +678,9 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 ### **Rahul Sharma**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-rahul-r15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-rahul-r15)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_rahul_r15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulsharma.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sharma-5a19a8293)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulsharmadev.netlify.app)
 
 </div>
 
@@ -737,7 +737,7 @@ Need help? We're here for you:
 - 📖 [Documentation](https://github.com/its-rahul-r15/repo-docgen#readme)
 - 🐛 [Issue Tracker](https://github.com/its-rahul-r15/repo-docgen/issues)
 - 💬 [Discussions](https://github.com/its-rahul-r15/repo-docgen/discussions)
-- 📧 [Email Support](mailto:rahul@example.com)
+- 📧 [Email Support](mailto:rahulsharma096115@gmail.com)
 
 ---
 
